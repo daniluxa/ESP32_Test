@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "sdkconfig.h": "c",
+        "esp_chip_info.h": "c",
+        "esp_flash.h": "c",
+        "stdbool.h": "c",
+        "gpio.h": "c",
+        "stdio.h": "c",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
+    }
+}
